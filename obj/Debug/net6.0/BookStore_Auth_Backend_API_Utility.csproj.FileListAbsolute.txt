@@ -1,0 +1,14 @@
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_Utility\bin\Debug\net6.0\BookStore_Auth_Backend_API_Utility.deps.json
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_Utility\bin\Debug\net6.0\BookStore_Auth_Backend_API_Utility.runtimeconfig.json
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_Utility\bin\Debug\net6.0\BookStore_Auth_Backend_API_Utility.dll
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_Utility\bin\Debug\net6.0\BookStore_Auth_Backend_API_Utility.pdb
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_Utility\obj\Debug\net6.0\BookStore_Auth_Backend_API_Utility.csproj.AssemblyReference.cache
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_Utility\obj\Debug\net6.0\BookStore_Auth_Backend_API_Utility.GeneratedMSBuildEditorConfig.editorconfig
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_Utility\obj\Debug\net6.0\BookStore_Auth_Backend_API_Utility.AssemblyInfoInputs.cache
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_Utility\obj\Debug\net6.0\BookStore_Auth_Backend_API_Utility.AssemblyInfo.cs
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_Utility\obj\Debug\net6.0\BookStore_Auth_Backend_API_Utility.csproj.CoreCompileInputs.cache
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_Utility\obj\Debug\net6.0\BookStore_Auth_Backend_API_Utility.dll
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_Utility\obj\Debug\net6.0\refint\BookStore_Auth_Backend_API_Utility.dll
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_Utility\obj\Debug\net6.0\BookStore_Auth_Backend_API_Utility.pdb
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_Utility\obj\Debug\net6.0\BookStore_Auth_Backend_API_Utility.genruntimeconfig.cache
+E:\Office\Micro-FrontEnd\BookStore - MFE2\Backend\BookStore_Auth_Backend_API\BookStore_Auth_Backend_API_Utility\obj\Debug\net6.0\ref\BookStore_Auth_Backend_API_Utility.dll
